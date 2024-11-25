@@ -4,6 +4,7 @@ bin/
 etc/
 include/
 lib64/
+lib/
 share/
 # Byte-compiled / optimized / DLL files
 __pycache__/
